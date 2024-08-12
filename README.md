@@ -23,17 +23,27 @@ consola:
 ![image](https://github.com/user-attachments/assets/d3a8bd92-adb6-4e83-81fd-efcba8133753)
 
 consola:
+
 ![image](https://github.com/user-attachments/assets/d80eebad-ba77-4d25-b554-60534f982bb6)
+
 (4).Saca el promdeio de un arreglo con numeros reales.
+
 ![image](https://github.com/user-attachments/assets/484ce77f-93ba-49ca-9fe3-e1b881bb9563)
+
 consola:
+
 ![image](https://github.com/user-attachments/assets/3a0ec4d9-32c2-4735-ab98-7232bcb2a4e0)
 
 (5)Saca la mediana de un arreglo ordenado:
+
 ![image](https://github.com/user-attachments/assets/ca0e68b2-7d41-416f-9b27-1dc38297ef86)
+
 consola:
+
 ![image](https://github.com/user-attachments/assets/610b4aa7-7a86-43f5-8c7c-a3e4ffa1a69e)
+
 Consola completa al ejecutar el programa:
+
 ![image](https://github.com/user-attachments/assets/1b84f2e5-8e9a-4c62-8775-cf9493c0b332)
 
   
