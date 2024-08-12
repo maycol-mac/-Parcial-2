@@ -16,6 +16,7 @@ consola:
 ![image](https://github.com/user-attachments/assets/9ce0371c-3e7e-4aad-beb5-26dd7e24b74b)
 
 consola:
+
 ![image](https://github.com/user-attachments/assets/b1feb709-e668-468a-b56f-b54b0f789da0)
 
 (3).Revisa que caracteres no compartes don listas:
