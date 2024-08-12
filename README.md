@@ -4,15 +4,24 @@ Como se puede observar se importar las correspondientes funcione y se llaman una
 
 
 (1).Busca los numeros que estan retidos y los aunica:
+
 ![image](https://github.com/user-attachments/assets/5b34e44b-a667-4977-bc8f-74e30cd276cc)
+
 consola:
+
 ![image](https://github.com/user-attachments/assets/4fb6e424-ba36-406d-bec7-132a8c2b760f)
+
 (2).En una lista que contiene diferentes palbras busca en cada una de ellas si hay mas de una vocal.
+
 ![image](https://github.com/user-attachments/assets/9ce0371c-3e7e-4aad-beb5-26dd7e24b74b)
+
 consola:
 ![image](https://github.com/user-attachments/assets/b1feb709-e668-468a-b56f-b54b0f789da0)
+
 (3).Revisa que caracteres no compartes don listas:
+
 ![image](https://github.com/user-attachments/assets/d3a8bd92-adb6-4e83-81fd-efcba8133753)
+
 consola:
 ![image](https://github.com/user-attachments/assets/d80eebad-ba77-4d25-b554-60534f982bb6)
 (4).Saca el promdeio de un arreglo con numeros reales.
